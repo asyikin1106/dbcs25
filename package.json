@@ -1,0 +1,23 @@
+{
+  "name": "dbcs25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asyikin1106/dbcs25.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asyikin1106/dbcs25/issues"
+  },
+  "homepage": "https://github.com/asyikin1106/dbcs25#readme",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  }
+}
